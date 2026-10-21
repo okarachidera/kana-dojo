@@ -370,6 +370,12 @@
   "termB": "mansion (English)",
   "explanation": "マンション means apartment building in Japanese. (Set 3)",
   "example": "駅前のマンションに住んでいます。"
+},
+{
+  "termA": "シール (shiiru)",
+  "termB": "seal (animal)",
+  "explanation": "シール usually means sticker/label. (Set 4)",
+  "example": "ノートにシールを貼った。"
 }
 
 ]
